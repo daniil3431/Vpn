@@ -1,5 +1,6 @@
 # profile-title: DaniiVpn
 # profile-update-interval: 1
+
 {
     "dns": {
         "hosts": {
