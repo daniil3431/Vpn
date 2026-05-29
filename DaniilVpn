@@ -6,6 +6,11 @@
 ()
 vless://6d4b5c83-9e76-4912-b91f-05c6c158b05a@virt.host:443?security=reality&encryption=none&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c0ffee1234abcd11#%F0%9F%91%AC%D0%94%D0%B5%D1%80%D0%B6%D0%B8%20%D0%B1%D1%80%D0%B0%D1%82%D0%B8%D1%88%D0%BA%D0%B0
 ()
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@bc-pl-1c.ray-balance.space:4443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%F0%9F%87%A6%F0%9F%87%B1+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0+%232
+
+vless://017510da-8b42-49de-8ea9-ab60e3e9072e@hu01.bearbeer.digital:443?security=reality&encryption=none&echfq=none&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=hu01.bearbeer.digital#%F0%9F%87%A6%F0%9F%87%B1+%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D1%8F+%231
+
+vless://87be8be2-9296-4912-944e-d49cc81485d8@fin9.odavpn.online:443?security=reality&encryption=none&echfq=none&pbk=JUg1ffaYEBNIbnNJHDWFP7pnX2LLGONJbjP5m1ab6Fo&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=storage.mds.yandex.net&sid=ca75b88bd067b39d#%F0%9F%87%A6%F0%9F%87%B1+%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F+%232
 
 vless://af81d8ab-5426-4460-b337-ca767edc81d2@ru.c2horizon.app:443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%20%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D1%8F%20%231
 ()
