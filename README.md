@@ -1,39 +1,20 @@
-# SimpleGate — private VPN connected through HAPP
+# 📶DaniiVpn🍺 — Частный VPN, подключенный через HAPP
 
-SimpleGate is a private VPN service for phones, computers and TV devices. Connection is added in HAPP using a personal subscription link.
+SimpleGate - это частный VPN-сервис для телефонов, компьютеров и телевизионных устройств. Подключение добавляется в HAPP по ссылке для персональной подписки.
 
-## What is included
+## Что входит в стоимость
 
-- 3-day free trial for new users;
-- plans for 1, 2, 3, 5 and 10 devices;
-- HAPP connection without complex manual setup;
-- iOS, Android, Windows, macOS, Linux, Apple TV, Android TV and Google TV;
-- Telegram account portal;
-- backup access via VK ID;
-- referral program with free subscription days.
+- 3-дневная бесплатная пробная версия для новых пользователей;
+- Подключение HAPP без сложной ручной настройки;
+- iOS, Android, Windows, macOS, Linux, Apple TV, Android TV и Google TV;
 
-## Quick start
+## Быстрый старт
 
-1. Open the account portal.
-2. Activate the trial or choose a plan.
-3. Install HAPP.
-4. Open your personal subscription link.
-5. Turn on the connection.
+1. Получи ссылку 
+2. Активируйте пробную версию или выберите тарифный план.
+3. Установите HAPP.
+4. Откройте ссылку для личной подписки.
+5. Включите подключен
+## Важно
 
-Account portal: https://t.me/SimpleGateVPN_bot  
-Support: https://t.me/SimpleGate_bot  
-Website: https://net.provodka.pro/
-
-## Sections
-
-- [Quick start](docs/quick-start.md)
-- [Device guides](docs/devices.md)
-- [What a HAPP subscription link is](docs/happ-subscription.md)
-- [How to use SimpleGate for free](docs/referral-free-days.md)
-- [Backup access via VK ID](docs/vk-id-backup-access.md)
-- [Troubleshooting](docs/troubleshooting.md)
-- [FAQ](docs/faq.md)
-
-## Important
-
-HAPP is a client app. HAPP itself does not provide VPN access or servers. SimpleGate provides access, the subscription link and user support.
+HAPP - это клиентское приложение. Сам HAPP не предоставляет VPN-доступ или серверы. SimpleGate предоставляет доступ, ссылку для подписки и поддержку пользователей.
