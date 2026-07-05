@@ -22,7 +22,7 @@ vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.11:443?flow=xtls-rprx-vis
 
 
 ()
-vless://6d4b5c83-9e76-4912-b91f-05c6c158b05a@virt.host:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&sid=c0ffee1234abcd11&type=tcp&spx=%2F#%F0%9F%87%A6%F0%9F%87%B1%20%E2%AC%87%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D1%8B%E2%AC%87
+vless://6d4b5c83-9e76-4912-b91f-05c6c158b05a@virt.host:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=max.ru&fp=chrome&echfq=none&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&sid=c0ffee1234abcd11&spx=%2F&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B1%20%E2%AC%87%EF%B8%8F%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D1%8B%E2%AC%87%EF%B8%8F%F0%9F%87%A6%F0%9F%87%B1
 ()
 
 
