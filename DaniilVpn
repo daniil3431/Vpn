@@ -41,3 +41,4 @@ vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.30:443?encryption=none&
 
 vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.24:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.ru&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&type=tcp&spx=%2F#%F0%9F%87%A6%F0%9F%87%B1%20%F0%9F%93%B6LTE%7C%20%23152
 
+vless://5f5973cc-b1f9-4655-8952-ca1de6e2f4bc@37.9.4.38:8443?security=reality&encryption=none&pbk=Q-GdAvOJdfsTVfS5uimCa9f5ARAsVNUqeoRSSOJbXGY&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api.vk.ru&sid=7ccbcb93b59845de#%F0%9F%87%A6%F0%9F%87%B1%20%F0%9F%93%B6LTE%7C%20%2317
