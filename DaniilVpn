@@ -7,43 +7,13 @@
 vless://6d4b5c83-9e76-4912-b91f-05c6c158b05a@virt.host:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&sid=c0ffee1234abcd11&type=tcp&spx=%2F#%F0%9F%87%A6%F0%9F%87%B1%20%F0%9F%91%AC%D0%94%D0%B5%D1%80%D0%B6%D0%B8%20%D0%B1%D1%80%D0%B0%D1%82%D0%B8%D1%88%D0%BA%D0%B0
 ()
 
-vless://984e5ce5-fb7d-4a36-ba73-cdd90c109bd1@virt.host:443?security=reality&encryption=none&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c0ffee1234abcd11#%F0%9F%87%AA%F0%9F%87%BA%20%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D0%B8
+trojan://MrdtVY2Dh_rxgQvcd8gy6SXa2jz37UT3@nl3.nnmm.me:443?security=tls&sni=nl3.nnmm.me&alpn=http%2F1.1&fp=firefox&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%20
 
+trojan://HuTswHs3aKBuUDXNT94xkAaH5ecLGMcB@us.nnmm.me:443?security=tls&sni=us.nnmm.me&alpn=h2%2C%20http%2F1.1&fp=firefox&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90
 
-vless://984e5ce5-fb7d-4a36-ba73-cdd90c109bd1@virt.host:443?security=reality&encryption=none&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c0ffee1234abcd11#%F0%9F%87%AA%F0%9F%87%AA%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F
+trojan://HuTswHs3aKBuUDXNT94xkAaH5ecLGMcB@fr.nnmm.me:443?security=tls&sni=fr.nnmm.me&alpn=h2%2C%20http%2F1.1&fp=firefox&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20(%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2)
 
-
-vless://984e5ce5-fb7d-4a36-ba73-cdd90c109bd1@virt.host:443?security=reality&encryption=none&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c0ffee1234abcd11#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
-
-
-vless://984e5ce5-fb7d-4a36-ba73-cdd90c109bd1@virt.host:443?security=reality&encryption=none&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c0ffee1234abcd11#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
-vless://984e5ce5-fb7d-4a36-ba73-cdd90c109bd1@virt.host:443?security=reality&encryption=none&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c0ffee1234abcd11#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
-
-
-vless://984e5ce5-fb7d-4a36-ba73-cdd90c109bd1@virt.host:443?security=reality&encryption=none&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c0ffee1234abcd11#%F0%9F%87%AC%F0%9F%87%A7%20%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD
-
-
-vless://984e5ce5-fb7d-4a36-ba73-cdd90c109bd1@virt.host:443?security=reality&encryption=none&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c0ffee1234abcd11#%F0%9F%87%B3%F0%9F%87%B4%20%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F
-
-
-vless://984e5ce5-fb7d-4a36-ba73-cdd90c109bd1@virt.host:443?security=reality&encryption=none&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c0ffee1234abcd11#%F0%9F%87%A8%F0%9F%87%AD%20%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F
-
-
-vless://984e5ce5-fb7d-4a36-ba73-cdd90c109bd1@virt.host:443?security=reality&encryption=none&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c0ffee1234abcd11#%F0%9F%87%B9%F0%9F%87%B7%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F
-
-
-trojan://HuTswHs3aKBuUDXNT94xkAaH5ecLGMcB@fr.nnmm.me:443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=firefox&type=tcp&sni=fr.nnmm.me#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%28%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%29
-
-
-trojan://HuTswHs3aKBuUDXNT94xkAaH5ecLGMcB@us.nnmm.me:443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=firefox&type=tcp&sni=us.nnmm.me#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90
-vless://984e5ce5-fb7d-4a36-ba73-cdd90c109bd1@virt.host:443?security=reality&encryption=none&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c0ffee1234abcd11#%F0%9F%87%AF%F0%9F%87%B5%20%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
-
-
-vless://984e5ce5-fb7d-4a36-ba73-cdd90c109bd1@virt.host:443?security=reality&encryption=none&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c0ffee1234abcd11#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vless://984e5ce5-fb7d-4a36-ba73-cdd90c109bd1@virt.host:443?security=reality&encryption=none&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=c0ffee1234abcd11#%F0%9F%87%B0%F0%9F%87%BF%20%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD
-
-
-
+trojan://MrdtVY2Dh_rxgQvcd8gy6SXa2jz37UT3@nl3.nnmm.me:443?security=tls&alpn=http%2F1.1&headerType=none&fp=firefox&type=tcp&sni=nl3.nnmm.me#%F0%9F%87%A6%F0%9F%87%B1%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2
 
 
 ()
